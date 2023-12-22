@@ -19,7 +19,7 @@
 
 - [Лабораторная АиСД ИТМО №4](https://github.com/drlinggg/lab-aisd-4)
 
-- [Лабораторная АиСД ИТМО №5](https://github.com/drlinggg/lab-aisd-5)
+- [Лабораторная АиСД ИТМО №5](https://github.com/drlinggg/aisd-lab-5)
 
 - 6 лаба на авл была необязательной и я её не делал :(
 
