@@ -24,4 +24,4 @@
 - [Арифметическое кодирование](https://github.com/drlinggg/arifmetic-code)
 - [Код Грея](https://github.com/drlinggg/n-gray-code-strings)
 - [Код Хэмминга](https://github.com/drlinggg/hamming-code-error-correction)
-- [Код Хаффмана]()
+- [Код Хаффмана](https://github.com/drlinggg/haffman-code)
