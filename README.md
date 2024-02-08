@@ -20,6 +20,3 @@
 - [Лабораторная №14](https://github.com/drlinggg/14labgamelife)
 
 ## 2 семестр 2023:
-
-### Аппаратное обеспечение вычислительных систем
-[Лабораторная №1](https://github.com/drlinggg/Computer-hardware)
